@@ -2,7 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  background: url('./components/imagens/pexels-photo-531756.webp');
+.weatherApp {
+  background: url('./components/imagens/limpo.webp');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.dia {
+  background: url('./components/imagens/dia.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.noite {
+  background: url('./components/imagens/noite.jpeg');
+  background-repeat: no-repeat;
   background-size: cover;
 }

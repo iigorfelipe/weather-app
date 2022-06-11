@@ -3,6 +3,7 @@ const initialData = {
     name: '-',
     region: '-',
     country: '-',
+    localtime: '2022-06-12 1:16',
   },
   current: {
     temp_c: 0,
