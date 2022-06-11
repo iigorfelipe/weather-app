@@ -1,7 +1,8 @@
-body {
-  background-color: whitesmoke;
-}
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  background: url('./components/imagens/pexels-photo-531756.webp');
+  background-size: cover;
+}
